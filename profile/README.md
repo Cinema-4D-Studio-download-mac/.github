@@ -28,7 +28,7 @@
 ![Cinema 4D Studio Interface](https://img.utdstc.com/icon/596/766/59676653263343aad87c6a2a751b8f9be4ca49df3e5ce8899010b5af2256a8a5:200)  
 *Cinema 4D Studio user interface on Mac*
 
-![Modeling Workflow](https://external-preview.redd.it/kIO71SWsvG75XSfsIcFQpbybhzTr1XIreumS5_PYjlM.jpg?width=640&crop=smart&auto=webp&s=0626acbe6baf731b13244e0ea7c9ffcd66ab811c)  
+![Modeling Workflow](https://i.ytimg.com/vi/qnZHQlBmMD8/maxresdefault.jpg)  
 *Modeling and animation workflow*
 
 ![Rendering Example](https://imag.malavida.com/mvimgbig/download-fs/cinema-4d-studio-11523-1.jpg)  
